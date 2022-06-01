@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "yarn nodemon index.js"
+    "start": "npx nodemon index.js"
   },
   "author": "Dimas <31516927+dimas-prates@users.noreply.github.com>",
   "license": "MIT",
